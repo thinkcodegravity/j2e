@@ -4,7 +4,7 @@ import com.rest.wsClient.Input;
 import com.rest.wsClient.Output;
 
 public class RestClientMain {
-
+//
 	public static void main(String[] args) {
 	//changes
 		//	testAdd();
